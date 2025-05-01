@@ -4,7 +4,7 @@
   "description": "SCHWARZDEV vouch bot",
   "main": "vouch.js",
   "scripts": {
-    "start": "node keepalive.js && node vouch.js"
+    "start": "node vouch.js"
   },
   "dependencies": {
     "@discordjs/rest": "^2.5.0",
@@ -15,3 +15,4 @@
     "mongoose": "^8.14.1"
   }
 }
+
