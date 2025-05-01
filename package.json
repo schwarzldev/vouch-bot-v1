@@ -1,4 +1,11 @@
 {
+  "name": "vouch-bot",
+  "version": "1.0.0",
+  "description": "SCHWARZDEV vouch bot",
+  "main": "vouch.js",
+  "scripts": {
+    "start": "node vouch.js"
+  },
   "dependencies": {
     "@discordjs/rest": "^2.5.0",
     "discord-api-types": "^0.38.1",
